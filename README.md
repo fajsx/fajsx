@@ -1,7 +1,7 @@
 ## Hello, World! 
----
+
 ![fajsx GitHub stats](https://github-readme-stats.vercel.app/api?username=fajsx&show_icons=true&theme=gotham)
----
+
 ## 🔥 Skills
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
