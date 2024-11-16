@@ -1,7 +1,11 @@
 ## Hello, World! 
 
 <!-- GithubStats -->
-![fajsx GitHub stats](https://github-readme-stats.vercel.app/api?username=fajsx&show_icons=true&theme=gotham)
+<div style="flex-basis: 48%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fajsx&show_icons=true&theme=gotham&hide_border"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajsx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"/>  
+</div>
+
 
 ## 🔥 Skills
   <div style="flex-basis: 48%;">
