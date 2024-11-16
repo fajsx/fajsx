@@ -17,6 +17,5 @@
   <div style="flex-basis: 48%;">
     <h3>Tools</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://github.com/user-attachments/assets/4d0d0f53-7663-472d-9382-eff0c9577be9
-">
+    <img align="center" alt="Git" height="30" width="40" src="https://github.com/user-attachments/assets/4d0d0f53-7663-472d-9382-eff0c9577be9">
   </div>
